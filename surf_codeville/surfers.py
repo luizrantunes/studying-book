@@ -6,5 +6,3 @@ elif velocidadeMotorista > 40 and velocidadeMotorista <= 110:
     print("Tá dentro do limite de velocidade!")
 else:
     print("Cê tá indo devagar demais")
-
-    
