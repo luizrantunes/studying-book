@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93fc6808-99e3-4ef9-8526-f0d2deaa8f83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DogTesteDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DrumKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EchoTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovieTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TapeDeck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Capitulo02/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Capitulo02/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Capitulo02/DogTesteDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Capitulo02/DogTesteDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DogTesteDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DogTesteDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

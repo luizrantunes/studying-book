@@ -6,4 +6,7 @@ public class Dog {
     void bark() {
         System.out.println("Ruff! Ruff");
     }
+    void position() {
+        System.out.println("Sitting");
+    }
 }
